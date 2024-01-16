@@ -9,7 +9,7 @@ Welcome to the ESP32 with Arduino IDE repository! This repository contains sampl
 **Note:** Update GPIO pins according to your specific ESP32 module.
 
 ## Other Pheripheral used
-
+### 0.96 Inch OLED Display
 ![0.96Inch OlED Display](128x64_oled_display.webp)
 
 ## Getting Started
@@ -38,7 +38,7 @@ Welcome to the ESP32 with Arduino IDE repository! This repository contains sampl
 ## Featured Projects
 
 - **Flappy Bird:**
-  - [flappy_bird_esp32.ino](flappy_bird_esp32/flappy_bird_esp32.ino): A simple flappy bird game.
+  - [flappy_bird_esp32.ino](flappy_bird_esp32/flappybird_esp32.ino): A simple flappy bird game.
 
 
 
