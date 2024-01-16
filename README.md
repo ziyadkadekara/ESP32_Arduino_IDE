@@ -24,7 +24,8 @@ Welcome to the ESP32 with Arduino IDE repository! This repository contains sampl
      - `https://dl.espressif.com/dl/package_esp32_index.json`
    - Click "OK" to close the Preferences window.
    - Now, go to **Tools > Board > Boards Manager**, search for "ESP32" and install the Espressif ESP32 platform.
-   - Follow the [official instructions](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md) for detailed steps on adding ESP32 support to the Arduino IDE.
+   - Open the tools menu to select the board. Tools > Board > Your Board (My boars is ESP32 DOIT DEVKIT v1)
+   - Using Library Manager Add neccessary libraries for each projects
 
 
 3. **Explore the Code:**
